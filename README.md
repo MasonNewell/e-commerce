@@ -4,4 +4,4 @@ This application uses Express.js, Sequelize, and MySQL to build a back end appli
 
 # Demo
 
-[![Demo](https://img.youtube.com/vi/eCSYcLE00M/0.jpg)](https://www.youtube.com/watch?v=eCSYcLE00M)
+[![Demo](https://img.youtube.com/vi/_eCSYcLE00M/0.jpg)](https://www.youtube.com/watch?v=_eCSYcLE00M)
